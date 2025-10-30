@@ -127,8 +127,8 @@ Understanding user behavior, content trends, and monetization levers enables pla
 
 ## 👨‍💻 Author  
 **Pratik Rawade**  
-📧 Email: [pratikrawade8@.com](#)  
-🔗 LinkedIn: [linkedin.com/in/pratikrawade](#)
+📧 Email: [pratikrawade8@gmail.com](#)  
+🔗 LinkedIn: [linkedin.com/in/pratik-rawade/](#)
 
 ---
 
