@@ -121,7 +121,7 @@ Understanding user behavior, content trends, and monetization levers enables pla
 ---
 
 ## 📎 Power BI Report  
-👉 [View Interactive Dashboard](#) *(https://app.powerbi.com/groups/me/reports/6c9dd298-f1d6-4636-a299-0cedd221133a?tenant=f10a56df-ca48-483c-8a81-f5cd49253b69&experience=power-bi))*  
+👉 [View Interactive Dashboard] *(https://app.powerbi.com/groups/me/reports/6c9dd298-f1d6-4636-a299-0cedd221133a?tenant=f10a56df-ca48-483c-8a81-f5cd49253b69&experience=power-bi)*  
 
 ---
 
